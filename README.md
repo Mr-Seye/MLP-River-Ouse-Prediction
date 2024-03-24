@@ -1,2 +1,2 @@
-# AI-Project-2
-Neural Network Coursework 
+# MLP-River-Ouse-Prediction
+(MLP) Neural Network Coursework 
