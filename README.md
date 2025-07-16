@@ -44,6 +44,8 @@ A multi-layered perceptron (MLP) implementation developed to predict the flow of
    
 ⚠️ The program is hardcoded for the River Ouse dataset and not currently set up for general user input.
 
+---
+
 ## 💡 Customisation
 
 You can modify:
@@ -56,6 +58,8 @@ You can modify:
 
 More advanced configuration requires direct edits to the MLP implementation code.
 
+---
+
 ## 📦 Prerequisites
 
   - Python 3.8 or higher
@@ -65,10 +69,15 @@ More advanced configuration requires direct edits to the MLP implementation code
 Required libraries:
 ```bash
 pip install numpy matplotlib
+```
+
+---
 
 ## 👤 Author
 
 Jordan Ogunseye
+
+---
 
 ## 📝 License
 
